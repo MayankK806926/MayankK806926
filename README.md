@@ -11,13 +11,13 @@ I'm Mayank Kumar, a dedicated and enthusiastic developer, and a student at India
 ## 🛠️ Skills & Technologies  
 Here are some of the tools and technologies I enjoy working with:  
 
-| **Category**            | **Skills**                                                                 |
+| **Category**            | **Skills**                                                                |
 |-------------------------|---------------------------------------------------------------------------|
 | Programming Languages   | C++, Java, Python                                                         |
-| Web Development         | HTML, CSS, JavaScript, React (or mention frameworks you know)             |
-| Data & Algorithms       | Data Structures, Algorithms, Competitive Programming                     |
-| Tools & Platforms       | Git, GitHub, VS Code                                                     |
-| Databases               | SQL (or mention specific databases like MySQL, PostgreSQL if you use them)|
+| Web Development         | HTML, CSS, JavaScript, React.Js, TailWind CSS                             |
+| Data & Algorithms       | Data Structures& Algorithms, CP, RDBMS                                    |
+| Tools & Platforms       | Git, GitHub, VS Code, Figma, MS Azure                                     |
+| Databases               | MySQL                                                                     |
 
 ## 🌟 My Popular Projects  
 Here are a few projects that showcase my work and interests:  
@@ -34,6 +34,6 @@ Here are a few projects that showcase my work and interests:
 Let's connect and collaborate!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank_Kumar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-kumar-b819a82a3/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-MayankK-orange?style=flat)](https://codeforces.com/profile/Mayank_IITM27)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-mayank_k08-red?style=flat)](https://www.codechef.com/users/mayankk806926)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-Mayank_IITM27-orange?style=flat)](https://codeforces.com/profile/Mayank_IITM27)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-mayankkumar-red?style=flat)](https://www.codechef.com/users/mayankk806926)  
 📧 **Email**: You can reach me at mayankk806926@gmail.com  
