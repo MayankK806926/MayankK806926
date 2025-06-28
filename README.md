@@ -27,9 +27,6 @@ Here are a few projects that showcase my work and interests:
 - **[TicTacToeAI](https://github.com/yourusername/TicTacToeAI)**: An implementation of the classic Tic-Tac-Toe game with an AI opponent. *(Built using Python with Minimax algorithm.)*  
 - **[Jaipur_Metro_Navigator](https://github.com/yourusername/Jaipur_Metro_Navigator)**: A navigation tool for the Jaipur Metro system. *(Provides routes, fares, and station information.)*  
 
-## 📈 GitHub Stats  
-*(You can add GitHub stats using services like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) or manually insert images.)*  
-
 ## 🤝 Connect with Me  
 Let's connect and collaborate!  
 
