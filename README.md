@@ -13,7 +13,7 @@ Here are some of the tools and technologies I enjoy working with:
 
 | **Category**            | **Skills**                                                                |
 |-------------------------|---------------------------------------------------------------------------|
-| Programming Languages   | C++, Java, Python                                                         |
+| Programming Languages   | C++, Python, C, Javascript                                                |
 | Web Development         | HTML, CSS, JavaScript, React.Js, TailWind CSS                             |
 | Data & Algorithms       | Data Structures& Algorithms, CP, RDBMS                                    |
 | Tools & Platforms       | Git, GitHub, VS Code, Figma, MS Azure                                     |
@@ -23,8 +23,8 @@ Here are some of the tools and technologies I enjoy working with:
 Here are a few projects that showcase my work and interests:  
 
 - **[DSA](https://github.com/yourusername/DSA)**: A repository dedicated to my implementations and solutions for various Data Structures and Algorithms problems.  
-- **[TravelPlanner](https://github.com/yourusername/TravelPlanner)**: A project aimed at helping users plan their travels efficiently. *(A web-based tool for itinerary management and destination exploration.)*  
-- **[TicTacToeAI](https://github.com/yourusername/TicTacToeAI)**: An implementation of the classic Tic-Tac-Toe game with an AI opponent. *(Built using Python with Minimax algorithm.)*  
+- **[TravelPlanner](https://github.com/yourusername/TravelPlanner)**: A project aimed at helping users plan their travels efficiently. *(A tool for itinerary management and destination exploration.)*  
+- **[TicTacToeAI](https://github.com/yourusername/TicTacToeAI)**: An implementation of the classic Tic-Tac-Toe game with an AI opponent. *(Built using c++ with Minimax algorithm.)*  
 - **[Jaipur_Metro_Navigator](https://github.com/yourusername/Jaipur_Metro_Navigator)**: A navigation tool for the Jaipur Metro system. *(Provides routes, fares, and station information.)*  
 
 ## 🤝 Connect with Me  
